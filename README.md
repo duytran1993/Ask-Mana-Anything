@@ -1,5 +1,5 @@
 # Ask-Mana-Anything
-# [Ask Your Question(s)](https://github.com/duytran1993/Ask-Mana-Anything/issues/new)     [Read Questions](https://github.com/duytran1993/Ask-Mana-Anything/issues)
+
 
 Hello from Manabie.
 
@@ -11,3 +11,5 @@ Feel free to visit out Blog and our Website, and ensure your question hasn't alr
 **Links**
 - [Our Website](https://manabie.com/)
 - [Our tech & Product Blog](https://medium.com/@manabie)
+
+# [Ask Your Question(s)](https://github.com/duytran1993/Ask-Mana-Anything/issues/new)     [Read Questions](https://github.com/duytran1993/Ask-Mana-Anything/issues)
