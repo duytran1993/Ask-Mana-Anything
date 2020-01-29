@@ -1,4 +1,6 @@
 # Ask-Mana-Anything
+# [Ask Your Question(s)](https://github.com/duytran1993/Ask-Mana-Anything/issues/new)     [Read Questions](https://github.com/duytran1993/Ask-Mana-Anything/issues)
+
 Hello from Manabie.
 
 Welcome to Ask Mana Anything, where you can just come and ask us anything about Manabie, the Technology that we are using, and how we are implementing things at Manabie.
