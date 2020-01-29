@@ -1,4 +1,4 @@
-# Ask-Mana-Anything
+# Ask Mana Anything
 
 
 Hello from Manabie.
